@@ -1,0 +1,8 @@
+{
+  "eventTitle": "Capybara Spa Week",
+  "eventSubtitle": "Clean the zoo and get x2 coins",
+  "themeHex": "#58B368",
+  "rewardMultiplier": 2.0,
+  "showEventBanner": true,
+  "callToAction": "Play event"
+}
